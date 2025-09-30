@@ -116,7 +116,7 @@ from employees;
 
 -- or (* means selecting all columns)
 
-select *
+select * 
 from employees;
 
 select *
